@@ -15,3 +15,9 @@ Additional features that need adding but I haven't successfully built or had tim
 Using the code requires a few standard sheets in the XLAM file (MACRO sheet for inputing action steps & Macro Parameters sheet with some key components). I'll upload these once I figure out how. 
 
 I'm happy for suggestions and inputs to improve the quality of the code or add additional features. 
+
+setup guide: 
+
+using the toolkit guide:
+
+video of toolkit used for active use case:
