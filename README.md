@@ -16,8 +16,8 @@ Using the code requires a few standard sheets in the XLAM file (MACRO sheet for 
 
 I'm happy for suggestions and inputs to improve the quality of the code or add additional features. 
 
-setup guide: 
+installation guide: https://github.com/Goldilocs/MacroToolkit/blob/main/Installation%20Guide.md
 
-using the toolkit guide:
+using the toolkit guide: (to be added)
 
-video of toolkit used for active use case:
+video of toolkit used for active use case: (to be added)
